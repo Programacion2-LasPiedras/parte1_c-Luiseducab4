@@ -4,3 +4,6 @@ Escribir tu predicción y fundamento de cada valor en éste
 archivo
 
 Respuesta:
+Este programa imprime: "El valor de x es 11"
+
+### ¿y porqué será? 
